@@ -1,0 +1,40 @@
+.main{
+    background-image: url('https://images.unsplash.com/photo-1519842696211-9f6365bf1944?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8&w=1000&q=80');
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.name{
+    padding-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.put{
+    border: none;
+    outline: none;
+    width: 90%;
+    background-color: rgb(226, 226, 226);
+}
+.put2{
+    background-color: rgb(226, 226, 226);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 800px;
+    height: 50px;
+    border-radius: 7px;
+    border: 1px solid gray;
+    border-style: none;
+    margin-bottom: 20px;
+}
+p{
+    color: white;
+}
+.read{
+    margin-top: 120px;
+    display: flex;
+    justify-content: space-around;
+}

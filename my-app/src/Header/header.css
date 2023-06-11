@@ -1,0 +1,13 @@
+.play{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.line{
+    width: 1px;
+    height: 30px;
+    background-color: gray;
+}
+.header{
+    margin-bottom: 20px;
+}
